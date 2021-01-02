@@ -1,0 +1,1 @@
+Boilerplate for forking scalajs projects
